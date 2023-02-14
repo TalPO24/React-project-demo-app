@@ -1,0 +1,34 @@
+.show>.nav-link,
+.nav-link.active {
+    --bs-navbar-active-color: rgb(255, 230, 0);
+}
+
+.navbar-nav {
+    font-size: 1.5rem;
+    // padding-bottom: 5rem;
+    --bs-navbar-brand-hover-color: #fff;
+}
+
+// .bg {
+//     background-color: #fff;
+// }
+.nav-item {
+    .nav-link {
+        color: white;
+        --bs-nav-link-hover-color: rgb(255, 230, 0);
+    }
+}
+
+.btn-light {
+    margin-left: 7px;
+}
+
+.container-fluid {
+    .navbar-brand {
+        color: #fff;
+        margin-right: 14rem;
+        font-size: 1.5rem;
+        // --bs-navbar-brand-hover-color: rgb(255, 230, 0);
+        --bs-navbar-brand-hover-color: #fff;
+    }
+}

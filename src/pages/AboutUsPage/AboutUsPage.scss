@@ -1,0 +1,42 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap");
+// .card {
+//     display: grid;
+//     grid-template-columns: 1, 1fr;
+//     align-items: center;
+//     height: 30rem;
+//     width: 30rem;
+//     h1 {
+//         background-image: none;
+//         color: blue;
+//     }
+// }
+// .card-img-top {
+//     align-self: center;
+//     margin-top: 5rem;
+//     height: 15rem;
+//     width: 15rem;
+// }
+
+/* About us page css*/
+
+.img-fluid {
+    padding-left: 30rem;
+    padding-top: 3rem;
+}
+
+.title {
+    margin-left: 33.5rem;
+    margin-top: 3rem;
+    color: #fff;
+    font-weight: 600;
+    font-size: 3rem;
+    font-family: "Poppins", sans-serif;
+}
+
+.text {
+    margin-left: 3rem;
+    margin-top: 3rem;
+    color: #fff;
+    font-weight: 800;
+    font-family: "Poppins", sans-serif;
+}
